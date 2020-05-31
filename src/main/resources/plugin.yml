@@ -1,0 +1,6 @@
+name: DuplicateEverything
+version: ${project.version}
+main: me.xemor.duplicateeverything.DuplicateEverything
+api-version: 1.13
+authors: [Xemor_]
+description: This plugin duplicates everything when it is slain / broken.
